@@ -1,7 +1,7 @@
 /* 
  * CS:APP Data Lab 
  * 
- * <Heming Zhang Userid: 475982 >
+ * <Heming Zhang Userid: 475982>
  * 
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
