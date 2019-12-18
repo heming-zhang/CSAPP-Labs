@@ -1,6 +1,6 @@
 # CSAPP-Labs
-CSAPP Labs: data lab, bomb lab, attack lab, cache lab and alloc lab
-
+CSAPP Labs: data lab, bomb lab, attack lab, cache lab, alloc lab and linklist-exe
+ 
 ## Note:
 * Data-lab: contents about bits operation (bits.c)
 * Bomb-lab: most interesting lab about diffusion on assembly code (phase\[n\].asm)
